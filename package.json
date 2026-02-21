@@ -8,12 +8,12 @@
     "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
-  "homepage": "https://github.com/this-xyz/baileys#readme",
+  "homepage": "https://github.com/x-emam/baileys1#readme",
   "repository": {
-    "url": "git@github.com:this-xyz/baileys.git"
+    "url": "git@github.com:x-emam/baileys1.git"
   },
   "license": "MIT-License",
-  "author": "this-xyz",
+  "author": "x-emam",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
